@@ -5,3 +5,5 @@ The best way to learn is by practicing, review - and playing around/breaking thi
 Strategies I'm committed to trying during the rest of Mod 0:
 Play around! Try changing things and see what happens.
 Build in time to reflect on how things went and improvements to make.
+
+Shout out to Tony for his clear communications during our pseudocode exercise - he said what I wanted to in way fewer words! 
